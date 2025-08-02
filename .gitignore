@@ -4,3 +4,7 @@
 "*.xcf" 
 "*.blend" 
 "*.blend1" 
+"*.mov"video assets/*.mov 
+*.mov
+video assets/cf_animated_alpha.mov
+video assets/cf_animated_alpha_reduced.mov
